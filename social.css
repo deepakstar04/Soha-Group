@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+   background-color: aliceblue;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.youtube{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.video-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+iframe {
+    height: 300px;
+    width: 270px;
+    padding: 10px;
+   
+}
+
